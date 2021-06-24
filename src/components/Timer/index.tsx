@@ -1,4 +1,4 @@
-import { useState, useEffect, useMemo, FC } from 'react'
+import React, { useState, useEffect, useMemo, FC } from 'react'
 import GlobalStyles from '../../globalStyles'
 import * as SC from './styles'
 import { Time } from '../../types'
