@@ -1,1 +1,2 @@
-This is a timer app I made to learn React, Typescript, styled-components, and more.
+# Purpose
+To learn more about TSX, styled-components, etc.
